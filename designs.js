@@ -1,5 +1,4 @@
-// Select color input
-// Select size input
+
 var color
 var width
 var height
@@ -30,5 +29,4 @@ function makeGrid(a, b) {
       $(this).attr('style', 'background-color:' + color);
     }
   })
-// Your code goes here!
 }
